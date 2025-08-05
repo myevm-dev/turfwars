@@ -45,9 +45,9 @@ function ThirdwebResources() {
 	return (
 		<div className="flex justify-center w-full">
 			<ArticleCard
-				title="Trade Now"
+				title="Preview Platform"
 				href="https://www.syncfolio.space/turfwars"
-				description="Hosted By SyncFolio Space."
+				description="By SyncFolio Space"
 			/>
 		</div>
 	);
