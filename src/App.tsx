@@ -47,7 +47,7 @@ function ThirdwebResources() {
 			<ArticleCard
 				title="Preview Platform"
 				href="https://www.syncfolio.space/turfwars"
-				description="By SyncFolio Space"
+				description="By SyncFolio"
 			/>
 		</div>
 	);
